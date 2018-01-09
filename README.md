@@ -1,0 +1,2 @@
+# FluffCoins
+A CryptoCurrency
